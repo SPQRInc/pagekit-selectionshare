@@ -1,0 +1,11 @@
+{
+  "name": "selectionshare",
+  "dependencies": {
+    "selection-sharer": "*"
+  },
+  "private": true
+}
+
+
+
+
